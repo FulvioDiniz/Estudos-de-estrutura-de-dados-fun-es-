@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1651200505 source:d:\iftm\disciplinas\ed estruturas de dados\programas\listas\listasimples.c
+	"listasimples.h"
+	"listasimples.h"
+
+1651200554 d:\iftm\disciplinas\ed estruturas de dados\programas\listas\listasimples.h
+	<stdio.h>
+	<stdlib.h>
+
+1650458051 source:d:\iftm\disciplinas\ed estruturas de dados\programas\listas\listadupla.c
+	"listadupla.h"
+
+1650458051 d:\iftm\disciplinas\ed estruturas de dados\programas\listas\listadupla.h
+	<stdio.h>
+	<stdlib.h>
+
+1650372293 source:d:\iftm\disciplinas\ed estruturas de dados\programas\listas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"listasimples.h"
+
+1651200392 source:d:\iftm\disciplinas\ed estruturas de dados\programas\listas\listacircular.c
+	"listacircular.h"
+
+1651200419 d:\iftm\disciplinas\ed estruturas de dados\programas\listas\listacircular.h
+	<stdio.h>
+	<stdlib.h>
+	"listasimples.h"
+
+1651249697 source:c:\users\alunos\desktop\prova aed 1.0\listas\listacircular.c
+	"listacircular.h"
+
+1651243197 c:\users\alunos\desktop\prova aed 1.0\listas\listacircular.h
+	<stdio.h>
+	<stdlib.h>
+	"listasimples.h"
+
+1651200554 c:\users\alunos\desktop\prova aed 1.0\listas\listasimples.h
+	<stdio.h>
+	<stdlib.h>
+
+1651249143 source:c:\users\alunos\desktop\prova aed 1.0\listas\listadupla.c
+	"listadupla.h"
+
+1651249155 c:\users\alunos\desktop\prova aed 1.0\listas\listadupla.h
+	<stdio.h>
+	<stdlib.h>
+
+1651200505 source:c:\users\alunos\desktop\prova aed 1.0\listas\listasimples.c
+	"listasimples.h"
+	"listasimples.h"
+
+1651249651 source:c:\users\alunos\desktop\prova aed 1.0\listas\main.c
+	"listacircular.h"
+	"listacircular.h"
+
